@@ -204,8 +204,6 @@ try:
         
         # cv2.imshow("Capture", points)
         
- 
-        # Uncomment these two lines when getting checked off.
 
         if frame_count % 3 == 0:
             # print(output_result(len(points)))
