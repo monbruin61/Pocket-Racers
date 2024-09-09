@@ -5,6 +5,6 @@ Lab 1 is intro to machine learning.
 
 Lab 2 is dice.py which is an intro to computer vision.
 
-Lab 3 is drive.py which is further computer vision implementation.
+Lab 3 is drive.py which is further computer vision implementation. The mp4 file showcases how effectively the code translated to the small car.
 
 Lab 4 is intro to convolutional neural networks.
